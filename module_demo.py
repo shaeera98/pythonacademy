@@ -4,6 +4,4 @@ print(sys.platform)
 from sys import *
 print(platform)
 
-print("We did it!")
-
-
+print("This is a second test run")
